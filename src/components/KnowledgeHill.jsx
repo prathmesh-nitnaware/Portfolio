@@ -16,13 +16,18 @@ const trail = [
     title: "McKinsey.org Forward Program",
     desc: "Completed the McKinsey.org Forward Program.",
   },
+    {
+    year: "2025",
+    title: "AI/ML Hackathon Finalist",
+    desc: "Reached finals in a regional AI hackathon — showcasing solution-building under pressure.",
+  },
   {
-    year: "2024",
+    year: "2025",
     title: "Deloitte Data Analytics Job Simulation",
     desc: "Completed Deloitte's Data Analytics Job Simulation, gaining hands-on experience in data analysis.",
   },
     {
-    year: "2024",
+    year: "2025",
     title: "Walmart- Software Engineering Job Simulation",
     desc: "Completed Walmart's Software Engineering Job Simulation, gaining hands-on experience in software development.",
   },
@@ -33,11 +38,6 @@ const trail = [
   },
   {
     year: "2023",
-    title: "AI/ML Hackathon Finalist",
-    desc: "Reached finals in a regional AI hackathon — showcasing solution-building under pressure.",
-  },
-  {
-    year: "2021",
     title: "B.E. Computer Engineering",
     desc: "Studying at Vidyalankar Institute of Technology, Mumbai (expected 2027).",
   },

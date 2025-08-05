@@ -1,0 +1,70 @@
+.signal-tower {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.signal-tower h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin: 0 auto 30px auto;
+  align-items: center;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 400px;        /* Fixed width */
+  max-width: 90vw;     /* But still responsive on small screens */
+  padding: 12px;
+  border: 1px solid #999;
+  border-radius: 8px;
+  font-size: 1rem;
+  resize: none;        /* Prevent textarea resizing */
+}
+
+.contact-form textarea {
+  height: 150px;       /* Fixed height for message box */
+}
+
+.contact-form button {
+  width: 200px;
+  padding: 10px 18px;
+  font-weight: bold;
+  font-size: 1rem;
+  background-color: #d4a373;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* Social Buttons */
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.social-btn {
+  padding: 10px 16px;
+  font-weight: bold;
+  font-size: 0.95rem;
+  border: 2px solid #d4a373;
+  background: transparent;
+  color: #2d2d2d;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.social-btn:hover {
+  background: #d4a373;
+  color: white;
+}

@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #fdf6e3;
+  color: #2f4f4f;
+  scroll-behavior: smooth;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.7s ease-out;
+}
+
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}

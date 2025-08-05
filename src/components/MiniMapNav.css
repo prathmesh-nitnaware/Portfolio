@@ -1,0 +1,26 @@
+.mini-map {
+  position: fixed;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 10;
+}
+
+.mini-btn {
+  padding: 6px 10px;
+  font-size: 0.85rem;
+  background-color: #fff8ea;
+  border: 2px solid #d4a373;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.mini-btn.active {
+  background-color: #d4a373;
+  color: white;
+  font-weight: bold;
+}

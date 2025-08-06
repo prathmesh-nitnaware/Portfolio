@@ -1,4 +1,4 @@
-# 🧭 Explorer Map – Prathmesh’s Creative Journey
+# 🧭 My Portfolio Website
 
 > Exploring Ideas. Building Worlds.
 
@@ -9,7 +9,9 @@ This site is not just a collection of projects – it’s an experience through 
 
 ## 🌍 Live Website
 
-🔗 [Live Link]([https://prathmeshsite.netlify.app/]) 
+🔗 [https://prathmeshsite.netlify.app](https://prathmeshsite.netlify.app)
+
+Visit the live version of my interactive developer portfolio — designed like an explorer’s map. Navigate through my skills, projects, education, and creative highlights in an adventure-themed journey.
 
 ---
 
